@@ -5,10 +5,6 @@ file = "README.md"
 hash = "e80ee5e00f8607ef39999a2b7c40142d2187f39392817b949f995aacc27ce278"
 
 [[files]]
-file = "UploadMods.bat"
-hash = "d012315102bd1738f3c260fcab48f2bc8b72284a6a603ef3ac9daa6cac5f6188"
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
