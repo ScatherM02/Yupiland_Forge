@@ -45,6 +45,11 @@ hash = "9749441c2abe7142b04d4146d619e787e855e278ae7c7e97114b97d6267141ca"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "295ca06f809353de55cfa1d36296e8f7394f03ab4d7b6f42cd7bd20d69f267e2"
+metafile = true
+
+[[files]]
 file = "mods/carry-cats!.pw.toml"
 hash = "bbb2bff1a7937b3980573f8ac8d8b10529df8a411856bff31b298790e4e3188e"
 metafile = true
@@ -87,6 +92,16 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "5b0eaf19630d6145093ae6ff9a21cf2dbdd0da53d9289673ad5ccb099afa18b7"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "28ec0fe825391261f68b2de4f7719f29dbc7b8c5a02876e6acfde975375cf3f4"
 metafile = true
 
 [[files]]
@@ -152,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "f28641be841e3892525f5d098c19e5f3ea73dc862216649438754dce9754ed44"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
@@ -241,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
 
 [[files]]
@@ -280,13 +300,13 @@ hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "abf41d9c699229abdf6a60648e83a062b319a2d7cece5031ac44a9cece5333c8"
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "8413f8332489d4ebb72ed07b573b3df7c3fea4db4bcda9c2758f1995924bae9e"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "d03849bd372fe56449fc9a2fe7f931be02623f96f13d2101848fc857e708cb30"
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "bf918ba9bd46abccb2e6908fde3bc77453b52a1834e42b1d07e848875f975802"
 metafile = true
 
 [[files]]
