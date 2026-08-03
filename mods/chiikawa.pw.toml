@@ -1,0 +1,13 @@
+name = "Chiikawa"
+filename = "chiikawa-forge-1.20.1-0.0.8-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8502932e7bfdbab06c4ea5f0a9e9c1e95a22945a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8442875
+project-id = 1106419

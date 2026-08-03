@@ -1,0 +1,13 @@
+name = "Ghost Villager"
+filename = "ghost_villager-forge-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaff83e61761d5e521be1b452347b83df0941a9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8193063
+project-id = 1564000

@@ -1,0 +1,13 @@
+name = "Better Pickaxe Trims"
+filename = "betterpickaxetrims-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8IUwkNot/versions/yY9FrJxt/betterpickaxetrims-forge-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "9daf5cc98d48990b20462f75fbf0d9f97e2a655442a3291ef91487152184e88444147d80e273a391cfdb24f32a606f12cb195c37caccdbced68974429ecc01e9"
+
+[update]
+[update.modrinth]
+mod-id = "8IUwkNot"
+version = "yY9FrJxt"
